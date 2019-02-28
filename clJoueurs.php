@@ -1,5 +1,6 @@
 #!/usr/bin/php
 <?php
+// outdated script writen before new API functions where added to website (or before i knew they exist !)
 
 $rawData = file_get_contents('testfile.xml') or die("error: cannot fetch url");
 $rawXML = simplexml_load_string($rawData) or die("error: cannot create object");
