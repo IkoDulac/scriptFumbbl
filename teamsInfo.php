@@ -1,7 +1,7 @@
 #!/usr/bin/php
 
 <?php
-// calendrier.php sub-script to be used at the beginning of each season and when new teams are added to the group
+// Sub-script of "calendrier.php" to be used at the beginning of each season and when new teams are added to the group
 
 
 $groupid = "9761";
